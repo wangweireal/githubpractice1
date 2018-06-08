@@ -5,3 +5,6 @@ this is third time that i commit
 
 
 lalalalalallalalalalalalalalalalallala 
+
+
+Git has a mutable index called stage.
