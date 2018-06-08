@@ -18,3 +18,5 @@ i do not know how to create branch.
 hahahahahhahahhahahahahahahah
 
 add in branch new1
+Creating a new branch is quick & simple
+
