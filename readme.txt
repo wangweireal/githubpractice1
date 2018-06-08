@@ -12,3 +12,5 @@ Git has a mutable index called stage.
 i did a change.
 
 i did a change again
+
+i do not know how to create branch.
